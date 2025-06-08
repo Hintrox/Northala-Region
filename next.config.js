@@ -4,8 +4,7 @@ const nextConfig = {
   trailingSlash: true,
   images: {
     unoptimized: true
-  },
-  basePath: '/Northala-Region'
+  }
 }
 
 module.exports = nextConfig
